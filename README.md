@@ -1,3 +1,16 @@
 # ProjetoCalculadoraJavaScript
-
-Esse projeto trate-se de uma calculadora simples que usa a logica do javascript para realizar as operações, e bootstrap 4 para a construção da aparencia da calculadora.
+Calculadora de navegador feita em um unico arquivo.
+<br>
+<br>
+<br>
+<h2>Tecnologias</h2>
+<ul>
+  <li>HTML5</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Bootstrap</li>
+</ul>
+<br>
+<br>
+<h2>Como usar</h2>
+<p>&nbsp&nbsp&nbsp&nbspBaixe o index.html(unico arquivo) e clique no mesmo.</p>
